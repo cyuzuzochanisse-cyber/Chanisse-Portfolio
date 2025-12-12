@@ -1,4 +1,5 @@
-# My Portfolio
+# Hi, I'm Chanisse
+Aspiring  Research software engineer/ Quantum Scientist
 
 Welcome to my portfolio!  
 Here I share my projects, presentations, and learning journey.
@@ -7,7 +8,7 @@ Here I share my projects, presentations, and learning journey.
 
 ## 📊 Slide Deck
 [View my presentation](https://docs.google.com/presentation/d/1BRX07kK6OU7nfxMuMI28txgJ8z2nQJUpkrRH0xaA0lo/edit?usp=sharing)  
-*(Replace the filename with yours if different.)*
+
 
 ---
 
