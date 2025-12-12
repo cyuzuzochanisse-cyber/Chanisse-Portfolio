@@ -13,7 +13,7 @@ Here I share my projects, presentations, and learning journey.
 ---
 
 ## 🎥 Presentation Video
-[![Watch my video](https://youtu.be/SgQMSMvH6WA)
+[![Watch the video](https://img.youtube.com/vi/SgQMSMvH6WA/0.jpg)](https://www.youtube.com/watch?v=SgQMSMvH6WA)
 
 ---
 
