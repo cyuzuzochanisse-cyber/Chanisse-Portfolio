@@ -29,7 +29,7 @@ This project was all about addressing the problem of students in Rwanda who don'
 [View our demo]( https://rugira-gyslain.web.app/)  
 email: rgyslain@kent.edu , password: pass123
 
-This project was developed in a google cloud hackathon where my group and I decided to address the fintech industry by solving the 'Inventory management problem' most businesses face using cloud technology.
+This project was developed in a google cloud hackathon where my group and I decided to address the fintech industry by solving the 'Inventory management problem' most businesses face using cloud technology. If implemented, this would lead to a new era of efficient stock mangement and significantly boost the business financially.
 
 ---
 
