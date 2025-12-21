@@ -15,6 +15,8 @@ Here I share my projects, presentations, and learning journey.
 ## 🎥 Presentation Video
 [![Watch the video](https://img.youtube.com/vi/SgQMSMvH6WA/0.jpg)](https://www.youtube.com/watch?v=SgQMSMvH6WA)
 
+This project was all about addressing the problem of students in Rwanda who don't get to go to school due to the lack of employment that affects their mothers and makes them unable to provide school fees. We came up with an idea to build an app to provide the mothers with a platform where they can acquire relevant digital and financial literacy skills to give them an opportunity to land good jobs. This app also enables them to access loans when in need and also has an option to post products for saling for those who have the talent but nowhere to show for it. We envisioned that this idea- if put into action- would have a great impact on not only the economy of Rwanda but would also improve the work force of the whole country.
+
 ---
 
 ## The google cloud project slide deck
@@ -26,6 +28,8 @@ Here I share my projects, presentations, and learning journey.
 ## The google cloud project demo
 [View our demo]( https://rugira-gyslain.web.app/)  
 email: rgyslain@kent.edu , password: pass123
+
+This project was developed in a google cloud hackathon where my group and I decided to address the fintech industry by solving the 'Inventory management problem' most businesses face using cloud technology.
 
 ---
 
